@@ -86,7 +86,7 @@
 			</Name>
 			<Item2Launch>
 				<Type>To Common Doc Dir</Type>
-				<Path>Custom Devices\UDP Sender\UDP Sender Configuration.llb\Add Channel</Path>
+				<Path>Custom Devices\UDP Sender\UDP Sender Configuration.llb\Add Channel.vi</Path>
 			</Item2Launch>
 		</MenuItem>
 	  </RunTimeMenu>
